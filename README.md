@@ -1,6 +1,6 @@
 # Stock Forecasting App
 
-An intuitive and interactive application that uses time series analysis to forecast stock prices and provide investment insights. Built with **Streamlit**, this app allows users to explore stock trends and estimate future values using SARIMA modeling.
+An intuitive and interactive application that uses **time series analysis** to **forecast stock prices** and provide investment insights. Built with **Streamlit**, this app allows users to explore stock trends and estimate future values using SARIMA modeling.
 
 ---
 
