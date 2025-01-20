@@ -1,2 +1,2 @@
 # Data-science
-Config files for my GitHub profile.
+Projects related to data science
